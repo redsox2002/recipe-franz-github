@@ -1,0 +1,12 @@
+{
+  "id": "GitHub",
+  "name": "GitHub",
+  "version": "1.0.1",
+  "description": "GitHub",
+  "main": "index.js",
+  "author": "Sudhir Ganesan <ganesansudhir18@gmail.com>",
+  "license": "MIT",
+  "config": {
+    "serviceURL": "https://github.com/"
+  }
+}
